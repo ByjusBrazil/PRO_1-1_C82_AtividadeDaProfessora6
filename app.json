@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "81t",
-    "slug": "81t",
+    "name": "Story-Telling-App-82-TB",
+    "slug": "Story-Telling-App-82-TB",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
